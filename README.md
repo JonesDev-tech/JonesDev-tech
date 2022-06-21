@@ -28,11 +28,11 @@
 </table>
 <br />
 <h3>My Proficient Skills:</h3> 
- <p>- Frontend: React & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, UI Frameworks(MUI, AntD, ...), Tailwind
- - Backend: Django & Django Restframework, Node.js, Express.js, Laravel
- - Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Heroku, DigitalOcean
- - Project Manangement: Jira,Notion, Github, Butbucket, Gitlab
- - Others: Mathematics, Strong Algorithms, Data Science</p>
+ <h4>- Frontend: React, Next.js, Vue.js, UI Frameworks(MUI, AntD, ...), Tailwind</h4>
+ <h4>- Backend: Django & Django Restframework, Node.js, Express.js, Laravel</h4>
+ <h4>- Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Heroku, DigitalOcean</h4>
+ <h4>- Project Manangement: Jira,Notion, Github, Butbucket, Gitlab</h4>
+ <h4>- Others: Mathematics, Strong Algorithms, Data Science</h4>
 
 
 <h2 align="center">
@@ -46,10 +46,6 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RayDev1988&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"  />
 </p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=RayDev1988&theme=redical">
-</p>
 
  ## 📬 Get in Touch
 
