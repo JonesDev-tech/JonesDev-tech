@@ -26,14 +26,12 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3521432-2944876.png" width="200"></td>
   </tr>
 </table>
-<br />
 <h3>My Proficient Skills:</h3> 
- <h4>- Frontend: React, Next.js, Vue.js, UI Frameworks(MUI, AntD, ...), Tailwind</h4>
- <h4>- Backend: Django & Django Restframework, Node.js, Express.js, Laravel</h4>
- <h4>- Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Heroku, DigitalOcean</h4>
- <h4>- Project Manangement: Jira,Notion, Github, Butbucket, Gitlab</h4>
- <h4>- Others: Mathematics, Strong Algorithms, Data Science</h4>
-
+ <p align = 'left'>- Frontend: React, Next.js, Vue.js, UI Frameworks(MUI, AntD, ...), Tailwind</p>
+ <p align = 'left'>- Backend: Django & Django Restframework, Node.js, Express.js, Laravel</p>
+ <p align = 'left'>- Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Heroku, DigitalOcean</p>
+ <p align = 'left'>- Project Manangement: Jira,Notion, Github, Butbucket, Gitlab</p>
+ <p align = 'left'>- Others: Mathematics, Strong Algorithms, Data Science</p>
 
 <h2 align="center">
   Github Status
