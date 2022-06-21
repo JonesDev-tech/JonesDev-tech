@@ -1,16 +1,18 @@
+<h1 align="left">Senior Full Stack Developer</h1>
 <p align="center"><img align="center" src="https://www.groene.nl/uploads/image/file/000/023/086/medium_perfect-storm-1024x576.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 <h1 align="center">
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/WMEJuPQ3viqA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
+<h4>As a Senior Full Stack Web Engineer with 7+ years of professional background, I have successfully developed and published more than 40 sites using modern JavaScript Frameworks and Libraries such as React, Vue, Next, Nuxt for the front end and Node.js(Express.js), Python(Django), PHP(Laravel), and Ruby on Rails for the back end.</h4>
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=loganworld.loganworld" />
 <img align="right" src="https://img.shields.io/github/followers/loganworld?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=RayDev1988&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayDev1988&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> -->
-<h2 font-weight="bold" align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2 font-weight="bold" align="center">Skill Set</h2>
 <table>
   <tr>
     <td>
@@ -25,63 +27,34 @@
   </tr>
 </table>
 <br />
-<h2 align="center">𝐑𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐨𝐧 𝐦𝐞<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h3>My Proficient Skills:</h3> 
+ <p>- Frontend: React & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, UI Frameworks(MUI, AntD, ...), Tailwind
+ - Backend: Django & Django Restframework, Node.js, Express.js, Laravel
+ - Devops: AWS(Amplify, CodeCommit, Cognito, EC2, ...), Heroku, DigitalOcean
+ - Project Manangement: Jira,Notion, Github, Butbucket, Gitlab
+ - Others: Mathematics, Strong Algorithms, Data Science</p>
 
-<p align="center">
-<table align="center">
-    <tr>
-        <td>
-            <a href="mailto:leonsummer2007@gmail.com" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/gmail.png?raw=true" width="100">
-            </a>
-        </td>
-        <td>
-            <a href="https://www.linkedin.com/in/arita-masanori-11a335233" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/linkedin.png?raw=true" width="100">
-            </a>
-        </td>
-        <td>
-            <a href="https://t.me/mrcoin1220" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/telegram.png?raw=true" width="100">
-            </a>
-        </td>
-        <td>
-            <a href="https://join.skype.com/invite/CjrhmcVj2plP" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/skype.png?raw=true" width="100">
-            </a>
-        </td>
-        <td>
-            <a href="http://3.81.235.215/" target="_blank">
-                <img src="https://github.com/cyber-storm-200712/contact-icons/blob/main/website.png?raw=true" width="100">
-            </a>
-        </td>
-    </tr>
-</table>
-</p>
 
 <h2 align="center">
-  𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
+  Github Status
 </h2>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=cyber-storm-200712&show_icons=true&theme=radical&line_height=27" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-storm-200712&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" >
+  <img  src = "https://github-readme-stats.vercel.app/api?username=RayDev1988&show_icons=true&theme=radical&line_height=27" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RayDev1988&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" >
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-storm-200712&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"  />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RayDev1988&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"  />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=cyber-storm-200712&theme=redical">
-</p> 
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ <img src="https://activity-graph.herokuapp.com/graph?username=RayDev1988&theme=redical">
 </p>
-<h1 font-weight="bold"  align="center">𝐈 𝐖𝐀𝐍𝐓 𝐁𝐄 𝐀 𝐒𝐓𝐎𝐑𝐌</h2>
 
-<div>
-  <h2 align="center">𝐈𝐧 𝐭𝐡𝐞 𝐜𝐫𝐲𝐩𝐭𝐨 𝐰𝐨𝐫𝐥𝐝, 𝐈 𝐰𝐢𝐥𝐥 𝐫𝐮𝐥𝐞 𝐨𝐯𝐞𝐫 𝐭𝐢𝐦𝐞, 𝐬𝐩𝐚𝐜𝐞, 𝐚𝐧𝐝 𝐞𝐯𝐞𝐧 𝐦𝐚𝐬𝐬.</h2>
-<h2 align="center">𝐈𝐟 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐫𝐞𝐚𝐦 𝐢𝐭, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭.</h2> 
-<br />
+ ## 📬 Get in Touch
 
-</div>
+- Email:  raymonddowden1988@gmail.com
+- Skype:  live:.cid.6a55db3542891fb9
+- LinkedIn: https://www.linkedin.com/in/raymond-dowden-b400b1237/
+
+
