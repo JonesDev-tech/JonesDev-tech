@@ -47,8 +47,7 @@
 
  ## 📬 Get in Touch
 
-- Email:  raymonddowden1988@gmail.com
-- Skype:  live:.cid.6a55db3542891fb9
-- LinkedIn: https://www.linkedin.com/in/raymond-dowden-b9a7a4243/
+- Discord:  Dev0304#4458
+- Telegram: SR_FullStackDev  
 
 
