@@ -47,7 +47,7 @@
 
  ## 📬 Get in Touch
 
-- Discord:  Dev0304#4458
-- Telegram: SR_FullStackDev  
+- Gmail: jones.ashley.dev@gmail.com 
+- Telegram: @JonesDev_tech  
 
 
